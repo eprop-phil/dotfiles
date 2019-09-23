@@ -1,0 +1,4 @@
+alias art="php artisan"
+alias projects="cd $HOME/Projects"
+alias up="docker-compose up -d"
+alias down="docker-compose down"

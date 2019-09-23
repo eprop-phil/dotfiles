@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Nord",
+    "editor.fontFamily": "Monaco",
+    "editor.fontSize": 13,
+    "editor.scrollBeyondLastLine": true,
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.lineHeight": 25,
+    "workbench.activityBar.visible": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.fontFamily": "Roboto Mono Medium for Powerline",
+    "terminal.explorerKind": "external",
+    "terminal.external.osxExec": "iTerm.app",
+    "workbench.tree.indent": 10,
+    "workbench.tree.renderIndentGuides": "none"
+}
