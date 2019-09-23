@@ -15,7 +15,8 @@ composer:
 
 zsh:
 	chsh -s $(which zsh)
-	ln -s $(realpath zshrc) ~/.zshrc
+	ln -s $(realpath .zshrc) ~/.zshrc
+	ln -s $(realpath .aliases) ~/.aliases
 
 editor-setup:
 	ln -s $(realpath settings.json) ~/Library/Application\ Support/Code/User/settings.json
